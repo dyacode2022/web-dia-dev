@@ -1,0 +1,155 @@
+/**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}*/
+
+body{
+    background: white;
+    color: gray;
+    margin-top: 0px;
+}
+
+.curved {
+    background: #0099ff;
+    color: white;
+    z-index: 7;
+
+}
+
+.curved h1 {
+    font-size: 4.5rem;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    bottom: -150px;
+    z-index: 7;
+
+}
+.curved p {
+    font-size: 2rem;
+    text-align: center;
+    position: relative;
+    bottom: -130px;
+    margin-bottom: 0px;
+    z-index: 7;
+    font-size: 30px;
+}
+.waved {
+    position: relative;
+    z-index: 6;
+}
+
+.infoed {
+    
+    background:  rgb(243, 243, 243);
+    /*background-size: 100px;*/
+    padding-top: 550px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    color: black;
+    position: relative;
+    top: -400px;
+    margin-bottom: -500px;
+    z-index: 5;
+}
+.infoed h1 {
+    font-size: 4rem
+}
+.infoed p {
+    font-size: 1.5rem
+}
+
+.teams {
+    color: black;
+    position: relative;
+    z-index: 5;
+    margin-top: 0px;
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+
+}
+.teams h1 {
+    font-size: 4rem
+}
+.teams p {
+    font-size: 1.5rem
+}
+.project {
+    color: black;
+    position: relative;
+    z-index: 5;
+    margin-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-top: 300px;
+}
+.project h1 {
+    font-size: 4rem
+}
+.project p {
+    font-size: 1.5rem
+}
+.wavedd {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.box-container {
+    display: flex;
+}
+.share {
+    position: relative;
+    padding-left: 100px;
+    padding-top: 0px;
+    margin-top: 0px;
+    color: black;
+    background: #f3f4f5;
+    padding-bottom: 300px;
+    margin-bottom: -400px;
+    z-index: 7;
+}
+.share h4 {
+    color: rgb(77, 77, 77);
+}
+.share h1 {
+    font-size: 4rem;
+}
+.share p {
+    font-size: 1.5rem;
+}
+.wavved {
+    position: relative;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.end {
+    position: relative;
+    color: white;
+    background: #0099ff;
+    padding-left: 100px;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    z-index: 9;
+}
+.endwave {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    z-index: 8;
+}
+.social {
+    color: black;
+    padding-left: 100px;
+    margin-top: 300px;
+}
+.social h1 { 
+    font-size: 4rem;
+}
+.social p {
+    font-size: 1.5rem;
+}
